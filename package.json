@@ -1,0 +1,25 @@
+{
+  "name": "platinum-travel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crown999222/WeDoCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crown999222/WeDoCode/issues"
+  },
+  "homepage": "https://github.com/Crown999222/WeDoCode#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "lodash": "^4.17.19",
+    "normalize.css": "^8.0.1"
+  }
+}
